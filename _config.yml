@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Peter Woo"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "A current undergraduate Engineer at Cambridge with interests in Mechatronics, System & Control and UAV technologies."
   location         : "Cambridge, UK"
   employer         :
